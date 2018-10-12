@@ -41,6 +41,9 @@
       "path": "cz-conventional-changelog"
     }
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "save-dev": "^2.0.0"
   }
