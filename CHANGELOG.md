@@ -1,5 +1,15 @@
-<a name="1.1.4"></a>
-## [1.1.4](https://github.com/joe90joe40/eslint-config-joe-ninety/compare/1.1.3...1.1.4) (2018-10-13)
+<a name="1.2.1"></a>
+## [1.2.1](https://github.com/joe90joe40/eslint-config-joe-ninety/compare/1.1.3...1.2.1) (2018-10-13)
+
+
+### Bug Fixes
+
+* remove iojs from ci build ([c052267](https://github.com/joe90joe40/eslint-config-joe-ninety/commit/c052267))
+
+
+### Features
+
+* add changlog generation ([3f32925](https://github.com/joe90joe40/eslint-config-joe-ninety/commit/3f32925))
 
 
 

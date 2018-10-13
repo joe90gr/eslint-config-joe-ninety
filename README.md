@@ -1,6 +1,6 @@
 # eslint-config-joe-ninty
 <a href="https://www.npmjs.com/package/eslint-config-joe-ninety">
-<img alt="npm latest version" src="https://img.shields.io/badge/npm%40latest-v1.0.5-blue.svg">
+<img alt="npm latest version" src="https://img.shields.io/badge/npm%40latest-v1.2.1-blue.svg">
 </a>
 <a href="https://travis-ci.org/joe90joe40/eslint-config-joe-ninety"><img alt="Travis Status" src="https://travis-ci.org/joe90joe40/eslint-config-joe-ninety.svg?branch=master"></a>
 
