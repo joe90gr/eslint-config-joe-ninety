@@ -1,3 +1,13 @@
+<a name="1.2.2"></a>
+## [1.2.2](https://github.com/joe90joe40/eslint-config-joe-ninety/compare/1.2.1...1.2.2) (2018-10-18)
+
+
+### Bug Fixes
+
+* add jsx extension for import resolver ([ff95ac8](https://github.com/joe90joe40/eslint-config-joe-ninety/commit/ff95ac8))
+
+
+
 <a name="1.2.1"></a>
 ## [1.2.1](https://github.com/joe90joe40/eslint-config-joe-ninety/compare/1.1.3...1.2.1) (2018-10-13)
 
