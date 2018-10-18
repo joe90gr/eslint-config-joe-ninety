@@ -18,7 +18,12 @@ module.exports = {
 	'parser': 'babel-eslint',
 	'settings': {
 		'react': { 'version': '16' },
-		'import/core-modules': []
+		'import/core-modules': [],
+		'import/resolver': {
+			'node': {
+				'extensions': [ '.js', '.jsx' ]
+			}
+		}
 	},
 	'rules': {
 		'arrow-body-style': [ 2, 'as-needed' ],
